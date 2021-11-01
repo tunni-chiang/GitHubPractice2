@@ -4,5 +4,6 @@ public class Main {
         System.out.println("This is how you create a new repository!");
         System.out.println("This line is added from test branch, and hopefully can merge to main");
         System.out.println("This is added from test");
+        System.out.println("This line is added from main branch");
     }
 }
